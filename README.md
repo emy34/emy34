@@ -13,7 +13,7 @@
 
 ### Tech I Use
 
-[linkedin] : https://www.linkedin.com/in/emine-%C3%A7elik-/
+[linkedin]: https://www.linkedin.com/in/emine-%C3%A7elik-/
 
 
 
