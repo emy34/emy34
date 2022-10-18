@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="400" height="250">
+<img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="400" height="250">
 
 ### Hi there.. I'm Emine :blush: 👋
 
