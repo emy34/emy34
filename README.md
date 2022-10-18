@@ -1,10 +1,11 @@
-<img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="400" height="250">
+<img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" align="right" width="400" height="250">
 
 ### Hi there.. I'm Emine :blush: 👋
 
 ## Data Analyst | Data Scientist
 
-
+<font color="dark blue">Data is the new oil 'code'
+</font>
 
 <!--
 **emy34/emy34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
