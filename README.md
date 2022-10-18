@@ -7,8 +7,13 @@
 ### Reach out to me
 
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
-[linkedin] : https://www.linkedin.com/in/emine-%C3%A7elik-/
 
+<br />
+<br />
+
+### Tech I Use
+
+[linkedin] : https://www.linkedin.com/in/emine-%C3%A7elik-/
 
 
 
