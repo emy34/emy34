@@ -4,9 +4,7 @@
 
 ## Data Analyst | Data Scientist
 
-<font color="dark blue">Data is the new oil '<code />' </font>
 
-<!--
 **emy34/emy34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
