@@ -1,4 +1,10 @@
+<img src="<iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP">via GIPHY</a></p>
+
 ### Hi there.. I'm Emine :blush: 👋
+
+## Data Analyst | Data Scientist
+
+
 
 <!--
 **emy34/emy34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
