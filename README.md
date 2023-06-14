@@ -1,4 +1,4 @@
-<img src="https://kerteriz.net/content/images/size/w1140/wordpress/2021/09/veri-analizi-giris-dersi.jpg">
+<img src="https://kerteriz.net/content/images/size/w1140/wordpress/2021/09/veri-analizi-giris-dersi.jpg height:50 weight:50">
 
 ### Hi there.. I'm Emine :blush: 👋
 
